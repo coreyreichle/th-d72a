@@ -1,4 +1,4 @@
-#Scripts I've found useful for the TH-D72A, by Kenwood for packet operaitons.
+# Scripts I've found useful for the TH-D72A, by Kenwood for packet operaitons.
 
 Script listing:
 
